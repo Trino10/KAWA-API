@@ -1,12 +1,15 @@
 import { Module } from '@nestjs/common';
-import { SeedController } from './seed.controller';
 import { SeedService } from './seed.service';
-import { AutoresModule } from '../autores/autores.module';
+import { SeedController } from './seed.controller';
+import { ProveedoresModule } from '../proveedores/proveedores.module';
+import { ClientesModule } from '../clientes/clientes.module';
+import { MotosModule } from '../motos/motos.module';
+import { UsuariosModule } from '../usuarios/usuarios.module';
 import { CategoriasModule } from '../categorias/categorias.module';
 
 @Module({
   controllers: [SeedController],
   providers: [SeedService],
-  imports: [ AutoresModule, CategoriasModule ]
+  imports: [ProveedoresModule,MotosModule,ClientesModule,UsuariosModule,CategoriasModule]
 })
 export class SeedModule {}

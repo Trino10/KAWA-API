@@ -1,0 +1,57 @@
+[
+    {
+        "matricula": "1234ABC",
+        "marca": "Honda",
+        "modelo": "CBR500R",
+        "foto": "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/23MY_Ninja_650_GY1_STU__1_.png",
+        "cilindrada": 500,
+        "peso": 192,
+        "precio": 7000,
+        "dni_propietario": "56789012E",
+        "catid": "C001"
+    },
+    {
+        "matricula": "5678XYZ",
+        "marca": "Yamaha",
+        "modelo": "MT-07",
+        "foto": "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/23MY_Ninja_650_GY1_STU__1_.png",
+        "cilindrada": 689,
+        "peso": 182,
+        "precio": 8000,
+        "dni_propietario": "56789012E",
+        "catid": "C003"
+    },
+    {
+        "matricula": "9876MNO",
+        "marca": "Kawasaki",
+        "modelo": "Ninja 650",
+        "foto": "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/23MY_Ninja_650_GY1_STU__1_.png",
+        "cilindrada": 649,
+        "peso": 196,
+        "precio": 7500,
+        "dni_propietario": "56789012E",
+        "catid": "C003"
+    },
+    {
+        "matricula": "4321DEF",
+        "marca": "Suzuki",
+        "modelo": "GSX-R750",
+        "foto": "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/23MY_Ninja_650_GY1_STU__1_.png",
+        "cilindrada": 750,
+        "peso": 187,
+        "precio": 9000,
+        "dni_propietario": "45678901C",
+        "catid": "C005"
+    },
+    {
+        "matricula": "8765JKL",
+        "marca": "Ducati",
+        "modelo": "Monster 821",
+        "foto": "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/23MY_Ninja_650_GY1_STU__1_.png",
+        "cilindrada": 821,
+        "peso": 206,
+        "precio": 12000,
+        "dni_propietario": "98765432B",
+        "catid": "C002"
+    }
+]

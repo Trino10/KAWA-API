@@ -1,27 +1,29 @@
-import { Column, Entity, OneToMany, PrimaryGeneratedColumn } from "typeorm";
-import { Libro } from '../../libros/entities/libro.entity';
+import { Moto } from "src/modulos/motos/entities/moto.entity";
+import { Column, Entity, OneToMany, PrimaryColumn } from "typeorm";
 
 @Entity()
 export class Categoria {
+    
+    @PrimaryColumn('text',{
+        nullable: false,
+    }) 
+    catid: string;
 
-   @PrimaryGeneratedColumn('uuid')
-   id:string;
-   
-   @Column('text', {unique: true})
-   name: string;
+    @Column('text',{
+        unique: true,
+        nullable: true,
+    })
+    nombre: string;
 
-   @Column('text')
-   descripcion: string;
+    @Column('text',{
+        unique: true,
+        nullable: true,
+    })
+    desc: string;
 
-   @Column('text')
-   logo: string
-
-
-    // @OneToMany(
-    //     () => Libro,
-    //     (Libro) => Libro.categoria,
-    //     { cascade: false }
-    // )
-    // libros?:Libro[]
-
+    @OneToMany(
+        () => Moto,
+        (fkvirtu2) => fkvirtu2.catid
+    )
+    virtu2?: Moto[] //virtual
 }

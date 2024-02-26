@@ -12,6 +12,9 @@ import { TiendasModule } from './modulos/tiendas/tiendas.module';
 import { EditorialesModule } from './modulos/editoriales/editoriales.module';
 import { AuthModule } from './modulos/auth/auth.module';
 import { UserModule } from './modulos/user/user.module';
+import { MotosModule } from './modulos/motos/motos.module';
+import { ProveedoresModule } from './modulos/proveedores/proveedores.module';
+import { UsuariosModule } from './modulos/usuarios/usuarios.module';
 
 
 @Module({
@@ -36,7 +39,10 @@ import { UserModule } from './modulos/user/user.module';
     TiendasModule,
     EditorialesModule,
     AuthModule,
-    UserModule
+    UserModule,
+    MotosModule,
+    ProveedoresModule,
+    UsuariosModule
   ],
   controllers: [AppController],
   providers: [AppService],

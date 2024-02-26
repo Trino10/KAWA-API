@@ -1,0 +1,42 @@
+[
+    {
+        "userid": "1",
+        "dniuser": "12345678A",
+        "nombre": "Juan Pérez",
+        "username": "juanperez",
+        "contraseña": "clave123",
+        "email": "juan.perez@example.com"
+    },
+    {
+        "userid": "2",
+        "dniuser": "98765432B",
+        "nombre": "Ana Gómez",
+        "username": "anagomez",
+        "contraseña": "clave456",
+        "email": "ana.gomez@example.com"
+    },
+    {
+        "userid": "3",
+        "dniuser": "45678901C",
+        "nombre": "Luis Rodríguez",
+        "username": "luisrodriguez",
+        "contraseña": "clave789",
+        "email": "luis.rodriguez@example.com"
+    },
+    {
+        "userid": "4",
+        "dniuser": "78901234D",
+        "nombre": "María López",
+        "username": "marialopez",
+        "contraseña": "clave1011",
+        "email": "maria.lopez@example.com"
+    },
+    {
+        "userid": "5",
+        "dniuser": "56789012E",
+        "nombre": "Laura Martínez",
+        "username": "lauramartinez",
+        "contraseña": "clave1213",
+        "email": "laura.martinez@example.com"
+    }
+]

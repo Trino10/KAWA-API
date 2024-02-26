@@ -1,17 +1,28 @@
 [
     {
-        "name": "Bases de Datos",
-        "descripcion": "Bases de Datos SQL y Bases de Datos Documentales",
-        "logo": "logobasesdedatos.png "
+      "catid": "C001",
+      "nombre": "R",
+      "desc": "Moto deportiva."
     },
     {
-        "name": "Programación en Entorno Cliente",
-        "descripcion": "Programación en Entorno Cliente",
-        "logo": "logocliente.png "
+      "catid": "C002",
+      "nombre": "Nacked",
+      "desc": "Moto deportiva con un estilo de calle."
     },
     {
-        "name": "Programación en Entorno Servidor",
-        "descripcion": "Programación en Entorno Servidor",
-        "logo": "logoservidor.png "
+      "catid": "C003",
+      "nombre": "Trail",
+      "desc": "Moto versátil cómoda tanto para campo como para carretera."
+    },
+    {
+      "catid": "C004",
+      "nombre": "Custom",
+      "desc": "Moto de carretera cómoda con estilo motero."
+    },
+    {
+      "catid": "C005",
+      "nombre": "Enduro",
+      "desc": "Moto de campo."
     }
-]
+  ]
+  

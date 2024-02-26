@@ -1,0 +1,32 @@
+[
+  {
+    "cif": "A12345678",
+    "nombre": "Kawasaki",
+    "localidad": "Japon",
+    "telefono": "124567890"
+  },
+  {
+    "cif": "B98765432",
+    "nombre": "Yamaha",
+    "localidad": "Japon",
+    "telefono": "987654210"
+  },
+  {
+    "cif": "C87654321",
+    "nombre": "Honda",
+    "localidad": "Japon",
+    "telefono": "555234567"
+  },
+  {
+    "cif": "D56789012",
+    "nombre": "Ducati",
+    "localidad": "Italia",
+    "telefono": "333777999"
+  },
+  {
+    "cif": "E34567890",
+    "nombre": "Suzuki",
+    "localidad": "Japon",
+    "telefono": "111222333"
+  }
+]

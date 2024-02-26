@@ -1,34 +1,38 @@
 [
     {
-      "nombre": "Jose Antonio",
-      "nif": "456563434R",
-      "apellidos": "Morgado",
-      "direccion": "c/La pepa",
-      "ciudad": "Almeria",
-      "localidad": "Huércal Overa"
+      "dni": "12345678A",
+      "nombre": "Juan Pérez",
+      "fnac": "1990-05-15",
+      "localidad": "Cadiz",
+      "telefono": "555123456"
     },
     {
-      "nombre": "Ana",
-      "nif": "42356434R",
-      "apellidos": "Martinez",
-      "direccion": "c/Pepito de los palotes n2",
-      "ciudad": "Madrid",
-      "localidad": "Alcalá de Henares"
+      "dni": "98765432B",
+      "nombre": "Ana Gómez",
+      "fnac": "1985-10-22",
+      "localidad": "Sevilla",
+      "telefono": "555987654"
     },
     {
-      "nombre": "Pedro",
-      "nif": "34567812",
-      "apellidos": "Montes",
-      "direccion": "c/Pepito de los palotes n2",
-      "ciudad": "Sevilla",
-      "localidad": "Alcalá de Guadaira"
+      "dni": "45678901C",
+      "nombre": "Luis Rodríguez",
+      "fnac": "1988-03-08",
+      "localidad": "Granada",
+      "telefono": "555111222"
     },
     {
-      "nombre": "Maria",
-      "nif": "12345678U",
-      "apellidos": "Sanchez",
-      "direccion": "c/Pepito de los palotes n2",
-      "ciudad": "Salamanca",
-      "localidad": "Salamanca"
+      "dni": "78901234D",
+      "nombre": "María López",
+      "fnac": "1992-12-01",
+      "localidad": "Huelva",
+      "telefono": "555333444"
+    },
+    {
+      "dni": "56789012E",
+      "nombre": "Laura Martínez",
+      "fnac": "1995-06-25",
+      "localidad": "Almeria",
+      "telefono": "555666777"
     }
   ]
+  
