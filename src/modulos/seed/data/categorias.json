@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Bases de Datos",
+        "descripcion": "Bases de Datos SQL y Bases de Datos Documentales",
+        "logo": "logobasesdedatos.png "
+    },
+    {
+        "name": "Programación en Entorno Cliente",
+        "descripcion": "Programación en Entorno Cliente",
+        "logo": "logocliente.png "
+    },
+    {
+        "name": "Programación en Entorno Servidor",
+        "descripcion": "Programación en Entorno Servidor",
+        "logo": "logoservidor.png "
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+      "nombre": "Jose Antonio",
+      "nif": "456563434R",
+      "apellidos": "Morgado",
+      "direccion": "c/La pepa",
+      "ciudad": "Almeria",
+      "localidad": "Huércal Overa"
+    },
+    {
+      "nombre": "Ana",
+      "nif": "42356434R",
+      "apellidos": "Martinez",
+      "direccion": "c/Pepito de los palotes n2",
+      "ciudad": "Madrid",
+      "localidad": "Alcalá de Henares"
+    },
+    {
+      "nombre": "Pedro",
+      "nif": "34567812",
+      "apellidos": "Montes",
+      "direccion": "c/Pepito de los palotes n2",
+      "ciudad": "Sevilla",
+      "localidad": "Alcalá de Guadaira"
+    },
+    {
+      "nombre": "Maria",
+      "nif": "12345678U",
+      "apellidos": "Sanchez",
+      "direccion": "c/Pepito de los palotes n2",
+      "ciudad": "Salamanca",
+      "localidad": "Salamanca"
+    }
+  ]

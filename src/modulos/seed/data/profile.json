@@ -1,0 +1,22 @@
+[
+    {
+        "email": "morgado@gmail.com",
+        "password": "1234",
+        "github": "github: morgado@github.com",
+        "twitter": "twitter: morgado@twitter.com",
+        "website": "http://morgado.com",
+        "idCliente": "def93968-c260-4832-97e9-5cfd227727bf",
+        "rol": "admin"
+    },
+    {
+        "email": "anasanchez@gmail.com",
+        "password": "4321",
+        "github": "github: anasanchez@github.com",
+        "twitter": "twitter: anasanchez@twitter.com",
+        "website": "http://anasanchez.com",
+        "idCliente": "6e17d752-6d5b-4e3f-928c-303d883dc661",
+        "rol": "register",
+        "logo": "logo.png"
+    }
+]
+
