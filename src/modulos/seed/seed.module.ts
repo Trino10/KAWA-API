@@ -6,6 +6,8 @@ import { ClientesModule } from '../clientes/clientes.module';
 import { MotosModule } from '../motos/motos.module';
 import { UsuariosModule } from '../usuarios/usuarios.module';
 import { CategoriasModule } from '../categorias/categorias.module';
+import { AuthModule } from '../auth/auth.module';
+import { UserModule } from '../user/user.module';
 
 @Module({
   controllers: [SeedController],
