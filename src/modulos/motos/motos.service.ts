@@ -47,12 +47,7 @@ export class MotosService {
       const motos = await this.motoRepository.find({
         relations: ['dni_propietario', 'catid'],
       });
-
-      return {
-        data: motos,
-        message: 'Listado de todas las motos con relaciones cargadas',
-        status: 200,
-      };
+      return motos;
     } catch (error) {
       throw new InternalServerErrorException('Fallo al listar todas las motos con relaciones');
     }
@@ -65,11 +60,7 @@ export class MotosService {
       const moto = await this.motoRepository.findOne({
         where: { matricula }
       })
-      return {
-        message: "detalles de la moto",
-        data: moto,
-        status: 200
-      }
+      return moto;
     } catch (error) {
       throw new InternalServerErrorException('ERROR ._.')
     }
