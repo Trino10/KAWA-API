@@ -10,7 +10,7 @@ export class Moto {
     matricula: string;
 
     @Column('text',{
-        unique: true,
+        unique: false,
         nullable: true,
     })
     marca: string;

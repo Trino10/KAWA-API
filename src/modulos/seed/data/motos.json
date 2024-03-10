@@ -2,24 +2,24 @@
     {
         "matricula": "1234ABC",
         "marca": "Honda",
-        "modelo": "CBR500R",
-        "foto": "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/23MY_Ninja_650_GY1_STU__1_.png",
-        "cilindrada": 500,
+        "modelo": "CBR650R",
+        "foto": "https://www.honda.es/content/dam/central/motorcycles/supersports/cbr650r_2021/bike-carousel/HONDA_CBR650R_ROTATE_1.png",
+        "cilindrada": 650,
         "peso": 192,
         "precio": 7000,
-        "dni_propietario": "56789012E",
+        "dni_propietario": "78901234D",
         "catid": "C001"
     },
     {
         "matricula": "5678XYZ",
         "marca": "Yamaha",
         "modelo": "MT-07",
-        "foto": "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/23MY_Ninja_650_GY1_STU__1_.png",
+        "foto": "https://arider.com/wp-content/uploads/2021/07/yamaha-mt-07-graphics-kit.png",
         "cilindrada": 689,
         "peso": 182,
         "precio": 8000,
         "dni_propietario": "56789012E",
-        "catid": "C003"
+        "catid": "C002"
     },
     {
         "matricula": "9876MNO",
@@ -30,28 +30,86 @@
         "peso": 196,
         "precio": 7500,
         "dni_propietario": "56789012E",
-        "catid": "C003"
+        "catid": "C001"
     },
     {
         "matricula": "4321DEF",
         "marca": "Suzuki",
         "modelo": "GSX-R750",
-        "foto": "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/23MY_Ninja_650_GY1_STU__1_.png",
+        "foto": "https://suzuki-motos.s3.amazonaws.com/assets/prod-publish/10789/gsx-r750.png",
         "cilindrada": 750,
         "peso": 187,
         "precio": 9000,
         "dni_propietario": "45678901C",
-        "catid": "C005"
+        "catid": "C001"
     },
     {
         "matricula": "8765JKL",
         "marca": "Ducati",
-        "modelo": "Monster 821",
-        "foto": "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/23MY_Ninja_650_GY1_STU__1_.png",
-        "cilindrada": 821,
+        "modelo": "Panigale v4R",
+        "foto": "https://motobrave.com/images/motobrave/noticias/2022/octubre/Moto_Brave-Ducati-Panigale-V4-R_02.png",
+        "cilindrada": 1000,
         "peso": 206,
         "precio": 12000,
-        "dni_propietario": "98765432B",
+        "dni_propietario": "78901234D",
+        "catid": "C001"
+    },
+    {
+        "matricula": "4567KHF",
+        "marca": "Kawasaki",
+        "modelo": "Z1000",
+        "foto": "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/19ZR1000H_40RBK1DRF1CG_A_001.png",
+        "cilindrada": 1000,
+        "peso": 225,
+        "precio": 13000,
+        "dni_propietario": "78901234D",
         "catid": "C002"
+    },
+    {
+        "matricula": "3456KLL",
+        "marca": "Yamaha",
+        "modelo": "MT-09",
+        "foto": "https://yamaha-mundoyamaha.com/wp-content/uploads/2022/12/MT09_motos_header_v2.png",
+        "cilindrada": 900,
+        "peso": 205,
+        "precio": 10000,
+        "dni_propietario": "78901234D",
+        "catid": "C002"
+    },
+    {
+        "matricula": "2234LVM",
+        "marca": "Kawasaki",
+        "modelo": "Ninja H2R",
+        "foto": "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/19ZX1000Y_201GY3DRF1CG_A_001.png",
+        "cilindrada": 1000,
+        "peso": 245,
+        "precio": 23000,
+        "dni_propietario": "78901234D",
+        "catid": "C001"
+    },
+    {
+        "matricula": "5533MHF",
+        "marca": "Yamaha",
+        "modelo": "Tenere",
+        "foto": "https://s3.us-east-2.amazonaws.com/sami4tiendas.sami-shop.com/yamaha-motor.com.pe/images/productos/especificaciones-Tenere-700-2023-min-112640.png",
+        "cilindrada": 700,
+        "peso": 205,
+        "precio": 12000,
+        "dni_propietario": "78901234D",
+        "catid": "C003"
+    },
+    {
+        "matricula": "4325KLH",
+        "marca": "BMW",
+        "modelo": "S1000RR",
+        "foto": "https://static.wixstatic.com/media/a7b14b_0ae80623133444a08f970212fc65bef7~mv2.png/v1/fill/w_800,h_800,al_c,q_90,enc_auto/a7b14b_0ae80623133444a08f970212fc65bef7~mv2.png",
+        "cilindrada": 1000,
+        "peso": 245,
+        "precio": 33000,
+        "dni_propietario": "78901234D",
+        "catid": "C001"
     }
+    
+
+
 ]
